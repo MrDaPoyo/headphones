@@ -1,4 +1,4 @@
-### 16/05/2025 - 17:45
+### 16/05/2025 - 17:45 - 2 hrs
 ---
 Today I started making my very own headphones! My goals are the following:
 - Working Bluetooth headphones.
@@ -16,9 +16,9 @@ After a few hours of tinkering, I came up with a design I like for the earcups. 
 ![[images/Pasted image 20250516204854.png]]
 Fig. 1: The outer shell
 
-### 16/05/2025
+### 16/05/2025 - 2.5 hrs
 After a while, I managed to make a hole! Turns out I had to use the "Combine"
 ![[Pasted image 20250516224535.png]]
-### 21/05/2025 - 18:24
-I've been working for half an hour trying to find a design I'm comfortable with, and I think I found it!
+### 21/05/2025 - 18:24 - 3 hrs
+I've been working for half an hour trying to find a design I'm comfortable with, and I think I found it! I decided to go with a Hesh ANC-ish design
 ![[images/Pasted image 20250521182443.png]]
