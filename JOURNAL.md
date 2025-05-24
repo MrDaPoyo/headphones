@@ -22,3 +22,6 @@ After a while, I managed to make a hole! Turns out I had to use the "Combine"
 ### 21/05/2025 - 18:24 - 3 hrs
 I've been working for half an hour trying to find a design I'm comfortable with, and I think I found it! I decided to go with a Hesh ANC-ish design
 ![[images/Pasted image 20250521182443.png]]
+### 24/05/2025 - 11:00 - 3.5hrs
+![[images/Pasted image 20250524105843.png]]
+I did yet another redesign :P. This time, I traced the Hesh ANC's earcup and then extruded and bevel-ed it. Afterwards, I retraced the inner part and extruded it so that there would be a segment for the ear cushions to fit on.
